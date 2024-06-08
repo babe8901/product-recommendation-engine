@@ -1,0 +1,16 @@
+INFO:root: User: 1515915625353230683, Recommendations: [{'product_id': '1005425', 'score': '7.5565583e-07'}, {'product_id': '621123', 'score': '6.231506e-07'}]
+INFO:root: User: 1515915625353226922, Recommendations: [{'product_id': '395624', 'score': '7.367265e-13'}, {'product_id': '3759014', 'score': '5.3481254e-13'}, {'product_id': '232282', 'score': '4.6778835e-13'}, {'product_id': '122456', 'score': '4.596882e-13'}, {'product_id': '309926', 'score': '4.5317772e-13'}]
+INFO:root: User: 1515915625353230683, Recommendations: [{'product_id': '1005425', 'score': '7.5565583e-07'}, {'product_id': '621123', 'score': '6.231506e-07'}]
+INFO:root: User: 1515915625353230922, Recommendations: [{'product_id': '411926', 'score': '0.0059439'}]
+INFO:root: User: 1515915625353234047, Recommendations: [{'product_id': '1521644', 'score': '3.1534833e-05'}, {'product_id': '71315', 'score': '2.9630608e-05'}, {'product_id': '563893', 'score': '2.649118e-05'}]
+INFO:root: User: 1515915625353236157, Recommendations: [{'product_id': '839564', 'score': '1.7966178e-07'}, {'product_id': '88785', 'score': '1.7966177e-07'}, {'product_id': '1166818', 'score': '1.710306e-07'}]
+INFO:root: User: 1515915625353286099, Recommendations: [{'product_id': '416431', 'score': '5.2081793e-07'}]
+INFO:root: User: 1515915625353294441, Recommendations: [{'product_id': '1371137', 'score': '1.2338667e-07'}]
+INFO:root: User: 1515915625353320420, Recommendations: [{'product_id': '125295', 'score': '0.001175545'}]
+INFO:root: User: 1515915625353416040, Recommendations: [{'product_id': '828543', 'score': '0.02128741'}, {'product_id': '54966', 'score': '0.0190544'}, {'product_id': '855078', 'score': '0.018650293'}]
+INFO:root: User: 1515915625353457259, Recommendations: [{'product_id': '4316', 'score': '0.2158198'}, {'product_id': '3828963', 'score': '0.19065753'}, {'product_id': '146520', 'score': '0.178962'}, {'product_id': '87419', 'score': '0.16544929'}]
+INFO:root: User: 1515915625353458744, Recommendations: [{'product_id': '4316', 'score': '6.377246e-13'}, {'product_id': '146520', 'score': '5.288333e-13'}, {'product_id': '87419', 'score': '4.890164e-13'}, {'product_id': '1531401', 'score': '4.7318e-13'}]
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:31:24] "GET /recommend?user_id=1515915625353230683 HTTP/1.1" 200 -
